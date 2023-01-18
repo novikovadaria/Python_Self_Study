@@ -1,0 +1,676 @@
+1659959299080	geckodriver	INFO	Listening on 127.0.0.1:63300
+1659959302168	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63301" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\79384\\AppData\\Local\\Temp\\rust_mozprofileCdDPn7"
+1659959302443	Marionette	INFO	Marionette enabled
+1659959302447	Marionette	INFO	Listening on port 63310
+WebDriver BiDi listening on ws://localhost:63301
+Read port: 63310
+1659959302643	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\79384\\AppData\\Local\\Temp\\rust_mozprofileCdDPn7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63301/devtools/browser/c1a12792-0512-459b-9c6b-e61c4da1cc6a
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https://mail.google.com/mail/u/0/&followup=https://mail.google.com/mail/u/0/&emr=1 line 2 > eval line 2034 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1659959363199	Marionette	INFO	Stopped listening on port 63310
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "63394" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\79384\\AppData\\Local\\Temp\\rust_mozprofileIAWodA"
+1659959355374	Marionette	INFO	Marionette enabled
+1659959355378	Marionette	INFO	Listening on port 63404
+WebDriver BiDi listening on ws://localhost:63394
+Read port: 63404
+1659959355469	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\79384\\AppData\\Local\\Temp\\rust_mozprofileIAWodA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63394/devtools/browser/432cbfe7-b158-4c73-acd8-204cd43095c3
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https://mail.google.com/mail/u/0/&followup=https://mail.google.com/mail/u/0/&emr=1 line 2 > eval line 3516 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1659959362431	Marionette	INFO	Stopped listening on port 63404
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659959624328	geckodriver	INFO	Listening on 127.0.0.1:63630
+1659959627399	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63631" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\79384\\AppData\\Local\\Temp\\rust_mozprofile3q6E43"
+1659959627696	Marionette	INFO	Marionette enabled
+1659959627700	Marionette	INFO	Listening on port 63642
+WebDriver BiDi listening on ws://localhost:63631
+Read port: 63642
+1659959627783	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\79384\\AppData\\Local\\Temp\\rust_mozprofile3q6E43\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63631/devtools/browser/0d966d4d-76fd-40ae-bfb7-590747c47846
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https://mail.google.com/mail/u/0/&followup=https://mail.google.com/mail/u/0/&emr=1 line 2 > eval line 4401 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1659959654384	Marionette	INFO	Stopped listening on port 63642
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659959687037	geckodriver	INFO	Listening on 127.0.0.1:63710
+1659959690109	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63711" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\79384\\AppData\\Local\\Temp\\rust_mozprofileftLOmF"
+1659959690390	Marionette	INFO	Marionette enabled
+1659959690394	Marionette	INFO	Listening on port 63720
+WebDriver BiDi listening on ws://localhost:63711
+Read port: 63720
+1659959690484	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\79384\\AppData\\Local\\Temp\\rust_mozprofileftLOmF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63711/devtools/browser/867e0bf7-05ba-436b-9c7a-c7460e3446f7
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https://mail.google.com/mail/u/0/&followup=https://mail.google.com/mail/u/0/&emr=1 line 2 > eval line 4638 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1659959775847	Marionette	INFO	Stopped listening on port 63720
+1659959781849	geckodriver	INFO	Listening on 127.0.0.1:63794
+1659959784899	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63795" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\79384\\AppData\\Local\\Temp\\rust_mozprofileDfwy2X"
+1659959785157	Marionette	INFO	Marionette enabled
+1659959785160	Marionette	INFO	Listening on port 63806
+WebDriver BiDi listening on ws://localhost:63795
+Read port: 63806
+1659959785353	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\79384\\AppData\\Local\\Temp\\rust_mozprofileDfwy2X\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63795/devtools/browser/126d12d0-02ab-4e31-bb1a-c0951f299b9a
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https://mail.google.com/mail/u/0/&followup=https://mail.google.com/mail/u/0/&emr=1 line 2 > eval line 5317 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1659959852667	Marionette	INFO	Stopped listening on port 63806
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659961055557	geckodriver	INFO	Listening on 127.0.0.1:64103
+1659961058634	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64104" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\79384\\AppData\\Local\\Temp\\rust_mozprofileNcFD95"
+1659961058919	Marionette	INFO	Marionette enabled
+1659961058922	Marionette	INFO	Listening on port 64121
+WebDriver BiDi listening on ws://localhost:64104
+Read port: 64121
+1659961059003	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\79384\\AppData\\Local\\Temp\\rust_mozprofileNcFD95\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64104/devtools/browser/247acfb1-df85-495e-b415-c6136ea06b1c
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https://mail.google.com/mail/u/0/&followup=https://mail.google.com/mail/u/0/&emr=1 line 2 > eval line 3234 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1659962700302	Marionette	INFO	Stopped listening on port 64121
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "64187" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\79384\\AppData\\Local\\Temp\\rust_mozprofileWAmTE6"
+1659961126016	Marionette	INFO	Marionette enabled
+1659961126020	Marionette	INFO	Listening on port 64196
+WebDriver BiDi listening on ws://localhost:64187
+Read port: 64196
+1659961126105	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\79384\\AppData\\Local\\Temp\\rust_mozprofileWAmTE6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64187/devtools/browser/6a9761aa-30cf-4961-baa6-f82455d4154b
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https://mail.google.com/mail/u/0/&followup=https://mail.google.com/mail/u/0/&emr=1 line 2 > eval line 498 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1659961164009	Marionette	INFO	Stopped listening on port 64196
+1659961241892	geckodriver	INFO	Listening on 127.0.0.1:64288
+1659961244975	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64289" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\79384\\AppData\\Local\\Temp\\rust_mozprofileAq16jc"
+1659961245267	Marionette	INFO	Marionette enabled
+1659961245271	Marionette	INFO	Listening on port 64298
+WebDriver BiDi listening on ws://localhost:64289
+Read port: 64298
+1659961245350	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\79384\\AppData\\Local\\Temp\\rust_mozprofileAq16jc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64289/devtools/browser/9ee9f573-7978-48ab-9349-f0d25562d633
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https://mail.google.com/mail/u/0/&followup=https://mail.google.com/mail/u/0/&emr=1 line 2 > eval line 1129 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1659961253695	Marionette	INFO	Stopped listening on port 64298
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659961361633	geckodriver	INFO	Listening on 127.0.0.1:64377
+1659961364705	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64378" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\79384\\AppData\\Local\\Temp\\rust_mozprofileULBxwk"
+1659961364980	Marionette	INFO	Marionette enabled
+1659961364983	Marionette	INFO	Listening on port 64387
+WebDriver BiDi listening on ws://localhost:64378
+Read port: 64387
+1659961365081	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\79384\\AppData\\Local\\Temp\\rust_mozprofileULBxwk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64378/devtools/browser/fc433f03-b973-4fef-b558-ba40375f88ab
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https://mail.google.com/mail/u/0/&followup=https://mail.google.com/mail/u/0/&emr=1 line 2 > eval line 1106 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1659961376851	Marionette	INFO	Stopped listening on port 64387
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659961604535	geckodriver	INFO	Listening on 127.0.0.1:64617
+1659961607616	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64618" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\79384\\AppData\\Local\\Temp\\rust_mozprofileHmKFYX"
+1659961607901	Marionette	INFO	Marionette enabled
+1659961607905	Marionette	INFO	Listening on port 64628
+WebDriver BiDi listening on ws://localhost:64618
+Read port: 64628
+1659961607985	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\79384\\AppData\\Local\\Temp\\rust_mozprofileHmKFYX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64618/devtools/browser/dfd5724d-5bed-421f-8971-8aceb4cb4aba
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https://mail.google.com/mail/u/0/&followup=https://mail.google.com/mail/u/0/&emr=1 line 2 > eval line 7202 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1659961623066	Marionette	INFO	Stopped listening on port 64628
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659961877326	geckodriver	INFO	Listening on 127.0.0.1:64775
+1659961880394	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64776" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\79384\\AppData\\Local\\Temp\\rust_mozprofileuYYhRS"
+1659961880663	Marionette	INFO	Marionette enabled
+1659961880667	Marionette	INFO	Listening on port 64785
+WebDriver BiDi listening on ws://localhost:64776
+Read port: 64785
+1659961880824	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\79384\\AppData\\Local\\Temp\\rust_mozprofileuYYhRS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64776/devtools/browser/76a7365c-9bf4-4d52-9ed1-ce047b7172ff
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https://mail.google.com/mail/u/0/&followup=https://mail.google.com/mail/u/0/&emr=1 line 2 > eval line 1958 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1659962578632	Marionette	INFO	Stopped listening on port 64785
+4895
+WebDriver BiDi listening on ws://localhost:64882
+Read port: 64895
+1659962010094	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\79384\\AppData\\Local\\Temp\\rust_mozprofileBGg4kW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64882/devtools/browser/5f9524b9-63c0-42ff-a0d4-ec1fb685a368
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https://mail.google.com/mail/u/0/&followup=https://mail.google.com/mail/u/0/&emr=1 line 2 > eval line 6320 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1659962060714	Marionette	INFO	Stopped listening on port 64895
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "64966" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\79384\\AppData\\Local\\Temp\\rust_mozprofileOHecl7"
+1659962048997	Marionette	INFO	Marionette enabled
+1659962049001	Marionette	INFO	Listening on port 64976
+WebDriver BiDi listening on ws://localhost:64966
+Read port: 64976
+1659962049201	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\79384\\AppData\\Local\\Temp\\rust_mozprofileOHecl7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64966/devtools/browser/6216f9cb-d248-48b4-b59e-ea1d436b21fe
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https://mail.google.com/mail/u/0/&followup=https://mail.google.com/mail/u/0/&emr=1 line 2 > eval line 1109 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1659962059180	Marionette	INFO	Stopped listening on port 64976
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659962734472	geckodriver	INFO	Listening on 127.0.0.1:53525
+1659962737570	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53526" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\79384\\AppData\\Local\\Temp\\rust_mozprofileNtJwkB"
+1659962737876	Marionette	INFO	Marionette enabled
+1659962737880	Marionette	INFO	Listening on port 53536
+WebDriver BiDi listening on ws://localhost:53526
+Read port: 53536
+1659962737964	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\79384\\AppData\\Local\\Temp\\rust_mozprofileNtJwkB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53526/devtools/browser/2dc3a5b4-aed9-4f4a-9ec9-e8e650f8f2ae
+1659962816553	Marionette	INFO	Stopped listening on port 53536
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659962841390	geckodriver	INFO	Listening on 127.0.0.1:53583
+1659962844463	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53584" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\79384\\AppData\\Local\\Temp\\rust_mozprofileMarTc6"
+1659962844744	Marionette	INFO	Marionette enabled
+1659962844749	Marionette	INFO	Listening on port 53593
+WebDriver BiDi listening on ws://localhost:53584
+Read port: 53593
+1659962844844	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\79384\\AppData\\Local\\Temp\\rust_mozprofileMarTc6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53584/devtools/browser/7acb81c2-3303-4cb3-be38-83ae42778603
+1659962863224	Marionette	INFO	Stopped listening on port 53593
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659962931433	geckodriver	INFO	Listening on 127.0.0.1:53645
+1659962934494	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53646" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\79384\\AppData\\Local\\Temp\\rust_mozprofiled5wR7w"
+1659962934768	Marionette	INFO	Marionette enabled
+1659962934771	Marionette	INFO	Listening on port 53655
+WebDriver BiDi listening on ws://localhost:53646
+Read port: 53655
+1659962934868	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\79384\\AppData\\Local\\Temp\\rust_mozprofiled5wR7w\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53646/devtools/browser/6c0d84c8-c3f3-4a01-acbd-68fd972ccd1e
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https://mail.google.com/mail/u/0/&followup=https://mail.google.com/mail/u/0/&emr=1 line 2 > eval line 7535 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1659963396555	Marionette	INFO	Stopped listening on port 53655
+3757
+WebDriver BiDi listening on ws://localhost:53746
+Read port: 53757
+1659963122132	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\79384\\AppData\\Local\\Temp\\rust_mozprofilePY8er2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53746/devtools/browser/148bf177-706e-4bbc-bd36-9cacc2810696
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https://mail.google.com/mail/u/0/&followup=https://mail.google.com/mail/u/0/&emr=1 line 2 > eval line 492 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https://mail.google.com/mail/u/0/&followup=https://mail.google.com/mail/u/0/&emr=1 line 2 > eval line 773 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript warning: https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1 line 2 > eval line 3071 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1659963620821	Marionette	INFO	Stopped listening on port 53757
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+le at C:\\Users\\79384\\AppData\\Local\\Temp\\rust_mozprofileFTBtdq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53901/devtools/browser/477821c2-160a-4ce9-8000-eff0b6b09ef7
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https://mail.google.com/mail/u/0/&followup=https://mail.google.com/mail/u/0/&emr=1 line 2 > eval line 3409 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: "Inspector destroyed while executing onReflow callback"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1659963608126	Marionette	INFO	Stopped listening on port 53910
+unts.google.com"
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https://mail.google.com/mail/u/0/&followup=https://mail.google.com/mail/u/0/&emr=1 line 2 > eval line 2896 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1659963606804	Marionette	INFO	Stopped listening on port 53987
+4078
+WebDriver BiDi listening on ws://localhost:54069
+Read port: 54078
+1659963579546	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\79384\\AppData\\Local\\Temp\\rust_mozprofileL025oY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54069/devtools/browser/76e3423f-5cfa-401b-b500-a208101b0054
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https://mail.google.com/mail/u/0/&followup=https://mail.google.com/mail/u/0/&emr=1 line 2 > eval line 1461 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1659963605069	Marionette	INFO	Stopped listening on port 54078
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659963689758	geckodriver	INFO	Listening on 127.0.0.1:54210
+1659963692837	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54211" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\79384\\AppData\\Local\\Temp\\rust_mozprofile8yudDO"
+1659963693107	Marionette	INFO	Marionette enabled
+1659963693110	Marionette	INFO	Listening on port 54221
+WebDriver BiDi listening on ws://localhost:54211
+Read port: 54221
+1659963693268	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\79384\\AppData\\Local\\Temp\\rust_mozprofile8yudDO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54211/devtools/browser/253d5316-4b58-4e62-96e0-7347076f4fa1
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https://mail.google.com/mail/u/0/&followup=https://mail.google.com/mail/u/0/&emr=1 line 2 > eval line 1748 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1659963780580	Marionette	INFO	Stopped listening on port 54221
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "54280" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\79384\\AppData\\Local\\Temp\\rust_mozprofileLtynQj"
+1659963755683	Marionette	INFO	Marionette enabled
+1659963755688	Marionette	INFO	Listening on port 54291
+WebDriver BiDi listening on ws://localhost:54280
+Read port: 54291
+1659963755785	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\79384\\AppData\\Local\\Temp\\rust_mozprofileLtynQj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54280/devtools/browser/1bac9978-f394-44e5-bff2-f9d87db98757
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https://mail.google.com/mail/u/0/&followup=https://mail.google.com/mail/u/0/&emr=1 line 2 > eval line 1495 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1659963779149	Marionette	INFO	Stopped listening on port 54291
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659964982597	geckodriver	INFO	Listening on 127.0.0.1:55634
+1659964985680	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55635" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\79384\\AppData\\Local\\Temp\\rust_mozprofile6Tq8hE"
+1659964985975	Marionette	INFO	Marionette enabled
+1659964985979	Marionette	INFO	Listening on port 55645
+WebDriver BiDi listening on ws://localhost:55635
+Read port: 55645
+1659964986077	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\79384\\AppData\\Local\\Temp\\rust_mozprofile6Tq8hE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55635/devtools/browser/877a7f19-3307-43f7-a97b-57a71005d621
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https://mail.google.com/mail/u/0/&followup=https://mail.google.com/mail/u/0/&emr=1 line 2 > eval line 6091 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https://mail.google.com/mail/u/0/&followup=https://mail.google.com/mail/u/0/&emr=1 line 2 > eval line 1614 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https://mail.google.com/mail/u/0/&followup=https://mail.google.com/mail/u/0/&emr=1 line 2 > eval line 881 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1659964999298	Marionette	INFO	Stopped listening on port 55645
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659965038056	geckodriver	INFO	Listening on 127.0.0.1:55760
+1659965041119	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55761" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\79384\\AppData\\Local\\Temp\\rust_mozprofile1mz9Vl"
+1659965041457	Marionette	INFO	Marionette enabled
+1659965041461	Marionette	INFO	Listening on port 55773
+WebDriver BiDi listening on ws://localhost:55761
+Read port: 55773
+1659965041667	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\79384\\AppData\\Local\\Temp\\rust_mozprofile1mz9Vl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55761/devtools/browser/ac2ac17b-b885-412c-8e0b-768c180c6496
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https://mail.google.com/mail/u/0/&followup=https://mail.google.com/mail/u/0/&emr=1 line 2 > eval line 1290 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https://mail.google.com/mail/u/0/&followup=https://mail.google.com/mail/u/0/&emr=1 line 2 > eval line 1860 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https://mail.google.com/mail/u/0/&followup=https://mail.google.com/mail/u/0/&emr=1 line 2 > eval line 5538 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1659965313649	Marionette	INFO	Stopped listening on port 55773
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659965548509	geckodriver	INFO	Listening on 127.0.0.1:56227
+1659965551609	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56228" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\79384\\AppData\\Local\\Temp\\rust_mozprofilezdoPYy"
+1659965551977	Marionette	INFO	Marionette enabled
+1659965551982	Marionette	INFO	Listening on port 56237
+WebDriver BiDi listening on ws://localhost:56228
+Read port: 56237
+1659965552171	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\79384\\AppData\\Local\\Temp\\rust_mozprofilezdoPYy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56228/devtools/browser/6c319728-add0-4d40-82f5-d8ded6c073d8
+JavaScript warning: https://st2-3.vk.com/dist/web/grip.09bb0cc32f4318f31e0e.js?0a47fc0fa0b4071ed0b901429161712c, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://st2-3.vk.com/dist/web/grip.09bb0cc32f4318f31e0e.js?0a47fc0fa0b4071ed0b901429161712c, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1659965652004	Marionette	INFO	Stopped listening on port 56237
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659965711852	geckodriver	INFO	Listening on 127.0.0.1:56347
+1659965714938	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56348" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\79384\\AppData\\Local\\Temp\\rust_mozprofilei445br"
+1659965715245	Marionette	INFO	Marionette enabled
+1659965715248	Marionette	INFO	Listening on port 56358
+WebDriver BiDi listening on ws://localhost:56348
+Read port: 56358
+1659965715327	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\79384\\AppData\\Local\\Temp\\rust_mozprofilei445br\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56348/devtools/browser/ab0c9b01-e055-4dbc-96da-eb82779bbbf6
+JavaScript warning: https://st2-3.vk.com/dist/web/grip.09bb0cc32f4318f31e0e.js?0a47fc0fa0b4071ed0b901429161712c, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://st2-3.vk.com/dist/web/grip.09bb0cc32f4318f31e0e.js?0a47fc0fa0b4071ed0b901429161712c, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://id.vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://id.vk.com"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1659965911616	Marionette	INFO	Stopped listening on port 56358
+1659965914907	geckodriver	INFO	Listening on 127.0.0.1:56446
+1659965918006	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56447" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\79384\\AppData\\Local\\Temp\\rust_mozprofileFmrbAn"
+1659965918276	Marionette	INFO	Marionette enabled
+1659965918280	Marionette	INFO	Listening on port 56458
+WebDriver BiDi listening on ws://localhost:56447
+Read port: 56458
+1659965918431	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\79384\\AppData\\Local\\Temp\\rust_mozprofileFmrbAn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56447/devtools/browser/db26aaf3-a788-4949-8cd5-aae2f6ec8cc3
+JavaScript warning: https://st2-3.vk.com/dist/web/grip.09bb0cc32f4318f31e0e.js?0a47fc0fa0b4071ed0b901429161712c, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://st2-3.vk.com/dist/web/grip.09bb0cc32f4318f31e0e.js?0a47fc0fa0b4071ed0b901429161712c, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://id.vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://id.vk.com"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, 1659965973843	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56529" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\79384\\AppData\\Local\\Temp\\rust_mozprofileaAwqo0"
+1659965974125	Marionette	INFO	Marionette enabled
+1659965974129	Marionette	INFO	Listening on port 56539
+WebDriver BiDi listening on ws://localhost:56529
+Read port: 56539
+1659965974228	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\79384\\AppData\\Local\\Temp\\rust_mozprofileaAwqo0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56529/devtools/browser/b7467ffa-0d0f-43df-8cd9-e23091d73c97
+JavaScript warning: https://st2-3.vk.com/dist/web/grip.09bb0cc32f4318f31e0e.js?0a47fc0fa0b4071ed0b901429161712c, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://st2-3.vk.com/dist/web/grip.09bb0cc32f4318f31e0e.js?0a47fc0fa0b4071ed0b901429161712c, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://id.vk.com"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, 1659966102255	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56612" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\79384\\AppData\\Local\\Temp\\rust_mozprofileCRfQcf"
+1659966102537	Marionette	INFO	Marionette enabled
+1659966102540	Marionette	INFO	Listening on port 56621
+WebDriver BiDi listening on ws://localhost:56612
+Read port: 56621
+1659966102629	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\79384\\AppData\\Local\\Temp\\rust_mozprofileCRfQcf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56612/devtools/browser/11ef7498-1905-4a9e-bf80-7b4de9a12de1
+JavaScript warning: https://st2-3.vk.com/dist/web/grip.09bb0cc32f4318f31e0e.js?0a47fc0fa0b4071ed0b901429161712c, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://st2-3.vk.com/dist/web/grip.09bb0cc32f4318f31e0e.js?0a47fc0fa0b4071ed0b901429161712c, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://id.vk.com"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1659966490099	Marionette	INFO	Stopped listening on port 56621
+e-debugging-port" "56688" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\79384\\AppData\\Local\\Temp\\rust_mozprofileZWFDft"
+1659966200845	Marionette	INFO	Marionette enabled
+1659966200849	Marionette	INFO	Listening on port 56697
+WebDriver BiDi listening on ws://localhost:56688
+Read port: 56697
+1659966201008	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\79384\\AppData\\Local\\Temp\\rust_mozprofileZWFDft\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56688/devtools/browser/c87769e7-3069-4621-a3d5-933fab6db08c
+JavaScript warning: https://st2-3.vk.com/dist/web/grip.09bb0cc32f4318f31e0e.js?0a47fc0fa0b4071ed0b901429161712c, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://st2-3.vk.com/dist/web/grip.09bb0cc32f4318f31e0e.js?0a47fc0fa0b4071ed0b901429161712c, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://id.vk.com"
+JavaScript error: https://id.vk.com/vkconnect/auth.js?1.1.316, line 2: TypeError: e.state is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://id.vk.com"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1659966489046	Marionette	INFO	Stopped listening on port 56697
+e-debugging-port" "56769" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\79384\\AppData\\Local\\Temp\\rust_mozprofile7IxJNd"
+1659966275573	Marionette	INFO	Marionette enabled
+1659966275577	Marionette	INFO	Listening on port 56778
+WebDriver BiDi listening on ws://localhost:56769
+Read port: 56778
+1659966275774	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\79384\\AppData\\Local\\Temp\\rust_mozprofile7IxJNd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56769/devtools/browser/36b2855f-b14c-450e-9333-2f595cbcf732
+JavaScript warning: https://st2-3.vk.com/dist/web/grip.09bb0cc32f4318f31e0e.js?0a47fc0fa0b4071ed0b901429161712c, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://st2-3.vk.com/dist/web/grip.09bb0cc32f4318f31e0e.js?0a47fc0fa0b4071ed0b901429161712c, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://id.vk.com"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, 1659966486396	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56861" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\79384\\AppData\\Local\\Temp\\rust_mozprofileNvZNgH"
+1659966486690	Marionette	INFO	Marionette enabled
+1659966486693	Marionette	INFO	Listening on port 56870
+WebDriver BiDi listening on ws://localhost:56861
+Read port: 56870
+1659966486773	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1659966487522	Marionette	INFO	Stopped listening on port 56870
+1659966487523	CDP	WARN	Failed to remove undefined (Could not parse path (undefined): NS_ERROR_FILE_UNRECOGNIZED_PATH)
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 421))
+1659966499761	geckodriver	INFO	Listening on 127.0.0.1:56877
+1659966502832	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56878" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\79384\\AppData\\Local\\Temp\\rust_mozprofilepTH7bD"
+1659966503097	Marionette	INFO	Marionette enabled
+1659966503100	Marionette	INFO	Listening on port 56887
+WebDriver BiDi listening on ws://localhost:56878
+Read port: 56887
+1659966503275	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\79384\\AppData\\Local\\Temp\\rust_mozprofilepTH7bD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56878/devtools/browser/8ea49da4-7caa-4e8a-8e65-471499f7c3bd
+JavaScript warning: https://st2-3.vk.com/dist/web/grip.09bb0cc32f4318f31e0e.js?0a47fc0fa0b4071ed0b901429161712c, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://st2-3.vk.com/dist/web/grip.09bb0cc32f4318f31e0e.js?0a47fc0fa0b4071ed0b901429161712c, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+1659966518545	Marionette	INFO	Stopped listening on port 56887
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659966869573	geckodriver	INFO	Listening on 127.0.0.1:57924
+1659966872646	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57925" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\79384\\AppData\\Local\\Temp\\rust_mozprofileOWgZYt"
+1659966872929	Marionette	INFO	Marionette enabled
+1659966872933	Marionette	INFO	Listening on port 57935
+WebDriver BiDi listening on ws://localhost:57925
+Read port: 57935
+1659966873027	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\79384\\AppData\\Local\\Temp\\rust_mozprofileOWgZYt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57925/devtools/browser/aed27489-cfd9-41bc-b36d-c83ce913ce65
+1659966877342	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[2022-08-08T13:54:37Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-08T13:54:37Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-08T13:54:37Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-08T13:54:37Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.youtube.com"
+SourceActor threw an exception: [Exception... "Failed to open input source 'chrome://browser/content/certerror/aboutNetErrorCodes.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 699"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:699:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:543:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2150:35
+addAllSources@resource://devtools/server/actors/thread.js:1482:14
+watch@resource://devtools/server/actors/resources/sources.js:62:17
+watchResources@resource://devtools/server/actors/resources/index.js:288:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:161:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:53:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:529:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:438:21
+Line: 699, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 699: Failed to open input source 'chrome://browser/content/certerror/aboutNetErrorCodes.js'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1659966925478	Marionette	INFO	Stopped listening on port 57935
+1659966927853	geckodriver	INFO	Listening on 127.0.0.1:58109
+1659966930913	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58110" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\79384\\AppData\\Local\\Temp\\rust_mozprofile52fiEN"
+1659966931215	Marionette	INFO	Marionette enabled
+1659966931219	Marionette	INFO	Listening on port 58120
+WebDriver BiDi listening on ws://localhost:58110
+Read port: 58120
+1659966931297	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\79384\\AppData\\Local\\Temp\\rust_mozprofile52fiEN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58110/devtools/browser/636965e7-54d4-4ce6-bb80-c62a8ec85abe
+1659966935854	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[2022-08-08T13:55:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-08T13:55:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[Child 3060, MediaDecoderStateMachine #1] WARNING: Decoder=231e2bf5a00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 3060, MediaDecoderStateMachine #1] WARNING: Decoder=231e2bf5a00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:151
+[2022-08-08T13:55:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1659966946729	Marionette	INFO	Stopped listening on port 58120
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659967027911	geckodriver	INFO	Listening on 127.0.0.1:58358
+1659967030981	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58359" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\79384\\AppData\\Local\\Temp\\rust_mozprofileXoA9Vg"
+1659967031275	Marionette	INFO	Marionette enabled
+1659967031278	Marionette	INFO	Listening on port 58371
+WebDriver BiDi listening on ws://localhost:58359
+Read port: 58371
+1659967031364	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\79384\\AppData\\Local\\Temp\\rust_mozprofileXoA9Vg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58359/devtools/browser/c7c4e0d2-9969-425d-ab6d-1dc55694813b
+JavaScript warning: https://st2-3.vk.com/dist/web/grip.09bb0cc32f4318f31e0e.js?0a47fc0fa0b4071ed0b901429161712c, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://st2-3.vk.com/dist/web/grip.09bb0cc32f4318f31e0e.js?0a47fc0fa0b4071ed0b901429161712c, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1659967102514	Marionette	INFO	Stopped listening on port 58371
+1659967107146	geckodriver	INFO	Listening on 127.0.0.1:58433
+1659967110237	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58434" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\79384\\AppData\\Local\\Temp\\rust_mozprofilexVxiNL"
+1659967110515	Marionette	INFO	Marionette enabled
+1659967110518	Marionette	INFO	Listening on port 58443
+WebDriver BiDi listening on ws://localhost:58434
+Read port: 58443
+1659967110672	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\79384\\AppData\\Local\\Temp\\rust_mozprofilexVxiNL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58434/devtools/browser/1c46dfb2-e475-4a9f-a631-38dff2b0ae5b
+JavaScript warning: https://st2-3.vk.com/dist/web/grip.09bb0cc32f4318f31e0e.js?0a47fc0fa0b4071ed0b901429161712c, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://st2-3.vk.com/dist/web/grip.09bb0cc32f4318f31e0e.js?0a47fc0fa0b4071ed0b901429161712c, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://id.vk.com"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1659967179220	Marionette	INFO	Stopped listening on port 58443
+1659967181760	geckodriver	INFO	Listening on 127.0.0.1:58495
+1659967184855	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58496" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\79384\\AppData\\Local\\Temp\\rust_mozprofilePLn8vt"
+1659967185146	Marionette	INFO	Marionette enabled
+1659967185150	Marionette	INFO	Listening on port 58505
+WebDriver BiDi listening on ws://localhost:58496
+Read port: 58505
+1659967185235	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\79384\\AppData\\Local\\Temp\\rust_mozprofilePLn8vt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58496/devtools/browser/97fc0f04-76e4-4cae-ad0f-528384f73c0d
+JavaScript warning: https://st2-3.vk.com/dist/web/grip.09bb0cc32f4318f31e0e.js?0a47fc0fa0b4071ed0b901429161712c, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://st2-3.vk.com/dist/web/grip.09bb0cc32f4318f31e0e.js?0a47fc0fa0b4071ed0b901429161712c, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://id.vk.com"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1659967255999	Marionette	INFO	Stopped listening on port 58505
+1659967257904	geckodriver	INFO	Listening on 127.0.0.1:58569
+1659967260990	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58570" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\79384\\AppData\\Local\\Temp\\rust_mozprofilePV2UCC"
+1659967261244	Marionette	INFO	Marionette enabled
+1659967261248	Marionette	INFO	Listening on port 58581
+WebDriver BiDi listening on ws://localhost:58570
+Read port: 58581
+1659967261440	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\79384\\AppData\\Local\\Temp\\rust_mozprofilePV2UCC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58570/devtools/browser/c8a1ccfa-8ef2-4502-bfd9-c16c1247c77e
+JavaScript warning: https://st2-3.vk.com/dist/web/grip.09bb0cc32f4318f31e0e.js?0a47fc0fa0b4071ed0b901429161712c, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://st2-3.vk.com/dist/web/grip.09bb0cc32f4318f31e0e.js?0a47fc0fa0b4071ed0b901429161712c, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://id.vk.com"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1659967410148	Marionette	INFO	Stopped listening on port 58581
+e-debugging-port" "58644" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\79384\\AppData\\Local\\Temp\\rust_mozprofile2nV8P8"
+1659967409675	Marionette	INFO	Marionette enabled
+1659967409678	Marionette	INFO	Listening on port 58653
+WebDriver BiDi listening on ws://localhost:58644
+Read port: 58653
+1659967409850	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\79384\\AppData\\Local\\Temp\\rust_mozprofile2nV8P8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58644/devtools/browser/516f4e4b-c5d4-4ec7-91dc-869cf66575f7
+JavaScript warning: https://st2-3.vk.com/dist/web/grip.09bb0cc32f4318f31e0e.js?0a47fc0fa0b4071ed0b901429161712c, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://st2-3.vk.com/dist/web/grip.09bb0cc32f4318f31e0e.js?0a47fc0fa0b4071ed0b901429161712c, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://id.vk.com"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, 1659967494631	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58710" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\79384\\AppData\\Local\\Temp\\rust_mozprofileNzzjPv"
+1659967494918	Marionette	INFO	Marionette enabled
+1659967494921	Marionette	INFO	Listening on port 58719
+WebDriver BiDi listening on ws://localhost:58710
+Read port: 58719
+1659967495005	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\79384\\AppData\\Local\\Temp\\rust_mozprofileNzzjPv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58710/devtools/browser/dfe80156-c9ef-4450-82a3-047d7defd02a
+JavaScript warning: https://st2-3.vk.com/dist/web/grip.09bb0cc32f4318f31e0e.js?0a47fc0fa0b4071ed0b901429161712c, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://st2-3.vk.com/dist/web/grip.09bb0cc32f4318f31e0e.js?0a47fc0fa0b4071ed0b901429161712c, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, 1659967566110	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58783" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\79384\\AppData\\Local\\Temp\\rust_mozprofilej7bJA9"
+1659967566392	Marionette	INFO	Marionette enabled
+1659967566396	Marionette	INFO	Listening on port 58792
+WebDriver BiDi listening on ws://localhost:58783
+Read port: 58792
+1659967566482	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\79384\\AppData\\Local\\Temp\\rust_mozprofilej7bJA9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58783/devtools/browser/b6b0eaf9-217c-4219-8779-1335a13e36f5
+JavaScript warning: https://st2-3.vk.com/dist/web/grip.09bb0cc32f4318f31e0e.js?0a47fc0fa0b4071ed0b901429161712c, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://st2-3.vk.com/dist/web/grip.09bb0cc32f4318f31e0e.js?0a47fc0fa0b4071ed0b901429161712c, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+1659967834630	geckodriver	INFO	Listening on 127.0.0.1:59409
+1659967837717	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59410" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\79384\\AppData\\Local\\Temp\\rust_mozprofileX9EjSN"
+1659967837995	Marionette	INFO	Marionette enabled
+1659967837999	Marionette	INFO	Listening on port 59419
+WebDriver BiDi listening on ws://localhost:59410
+Read port: 59419
+1659967838154	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\79384\\AppData\\Local\\Temp\\rust_mozprofileX9EjSN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59410/devtools/browser/4bafeb0b-0d87-49d8-869e-3ac999dcd65e
+JavaScript warning: https://st2-3.vk.com/dist/web/grip.09bb0cc32f4318f31e0e.js?0a47fc0fa0b4071ed0b901429161712c, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://st2-3.vk.com/dist/web/grip.09bb0cc32f4318f31e0e.js?0a47fc0fa0b4071ed0b901429161712c, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://id.vk.com"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, 1659967891266	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59467" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\79384\\AppData\\Local\\Temp\\rust_mozprofile1MBT5l"
+1659967891538	Marionette	INFO	Marionette enabled
+1659967891541	Marionette	INFO	Listening on port 59477
+WebDriver BiDi listening on ws://localhost:59467
+Read port: 59477
+1659967891700	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\79384\\AppData\\Local\\Temp\\rust_mozprofile1MBT5l\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59467/devtools/browser/e1954a30-aa94-443d-ae8b-85c9b7722813
+JavaScript warning: https://st2-3.vk.com/dist/web/grip.09bb0cc32f4318f31e0e.js?0a47fc0fa0b4071ed0b901429161712c, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://st2-3.vk.com/dist/web/grip.09bb0cc32f4318f31e0e.js?0a47fc0fa0b4071ed0b901429161712c, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+1659967930466	Marionette	INFO	Stopped listening on port 59471659967932043	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59527" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\79384\\AppData\\Local\\Temp\\rust_mozprofilekJOBn3"
+1659967932312	Marionette	INFO	Marionette enabled
+1659967932315	Marionette	INFO	Listening on port 59538
+WebDriver BiDi listening on ws://localhost:59527
+Read port: 59538
+1659967932480	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\79384\\AppData\\Local\\Temp\\rust_mozprofilekJOBn3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59527/devtools/browser/80a2d60f-9567-49d0-b2c0-ec9914be4633
+JavaScript warning: https://st2-3.vk.com/dist/web/grip.09bb0cc32f4318f31e0e.js?0a47fc0fa0b4071ed0b901429161712c, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://st2-3.vk.com/dist/web/grip.09bb0cc32f4318f31e0e.js?0a47fc0fa0b4071ed0b901429161712c, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+JavaScript error: https://id.vk.com/vkconnect/auth.js?1.1.316, line 2: TypeError: e.state is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+1659967967404	Marionette	INFO	Stopped listening on port 59538
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
